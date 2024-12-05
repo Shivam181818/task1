@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitLife - Your Fitness Companion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container">
+            <h1 font color="#70ddff">Welcome to FitLife</h1>
+            <p>Your ultimate fitness companion to achieve your health goals.</p>
+            <a href="#features" class="btn">Discover Features</a>
+        </div>
+    </header>
+
+    <!-- Features Section -->
+    <section id="features" class="section">
+        <div class="container">
+            <h2>Why Choose FitLife?</h2>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <h3>Personalized Plans</h3>
+                    <p>Custom fitness and diet plans tailored to your needs.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Track Progress</h3>
+                    <p>Monitor your workouts, calories, and milestones easily.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Expert Guidance</h3>
+                    <p>Get tips from certified trainers and nutritionists.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="section bg-dark">
+        <div class="container">
+            <h2>What Our Users Say</h2>
+            <div class="testimonials-grid">
+                <div class="testimonial-item">
+                    <p>"FitLife changed my life! The plans are amazing and easy to follow."</p>
+                    <h4>- Sarah Johnson</h4>
+                </div>
+                <div class="testimonial-item">
+                    <p>"The progress tracker is exactly what I needed to stay consistent."</p>
+                    <h4>- Michael Brown</h4>
+                </div>
+                <div class="testimonial-item">
+                    <p>"The trainers are super supportive. Highly recommend this app!"</p>
+                    <h4>- Emily Davis</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section id="cta" class="section cta">
+        <div class="container">
+            <h2>Start Your Fitness Journey Today!</h2>
+            <p>Join thousands of others who have transformed their lives with FitLife.</p>
+            <a href="#" class="btn btn-primary">Download the App</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>© 2024 FitLife. All Rights Reserved. | <a href="#">Privacy Policy</a></p>
+        </div>
+    </footer>
+</body>
+</html>
